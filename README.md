@@ -16,5 +16,5 @@ A web-based Bank Management System developed as an academic project.
 -Balance management
 -Transaction history
 
-**##Author**
+## Author
 Hifza Abid
