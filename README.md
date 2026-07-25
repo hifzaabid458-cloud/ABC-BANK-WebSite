@@ -46,10 +46,10 @@ http://localhost/ABC-BANK-WebSite/
 <img width="727" height="597" alt="Screenshot 2026-07-25 143335" src="https://github.com/user-attachments/assets/d2814bdb-3242-42cd-a5f2-8108c6e39ead" />
 
 ### Withdraw
-<img width="482" height="496" alt="Screenshot 2026-07-23 145607" src="https://github.com/user-attachments/assets/c93fb829-9334-4d8e-9eb8-a3304236a597" />
+<img width="728" height="517" alt="Screenshot 2026-07-25 145232" src="https://github.com/user-attachments/assets/48853911-2c76-4488-9228-6566f00d4832" />
 
 ### Transfer money
-<img width="443" height="488" alt="Screenshot 2026-07-23 145632" src="https://github.com/user-attachments/assets/9bfce392-9b43-4557-bed5-4f46301e0ced" />
+<img width="695" height="697" alt="Screenshot 2026-07-25 145339" src="https://github.com/user-attachments/assets/0dcf80ce-0014-4994-90bd-9853696093af" />
 
 ### Transaction history
 <img width="1451" height="902" alt="Screenshot 2026-07-23 145648" src="https://github.com/user-attachments/assets/98678c21-e323-4e3c-88bf-f241446ea7d4" />
