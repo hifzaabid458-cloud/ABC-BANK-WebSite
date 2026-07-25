@@ -37,7 +37,7 @@ http://localhost/ABC-BANK-WebSite/
 <img width="1872" height="887" alt="Screenshot 2026-07-23 145743" src="https://github.com/user-attachments/assets/27858e13-97cf-4db9-a49a-e085e5fc3d39" />
 
 ### Signin page
-<img width="716" height="515" alt="Screenshot 2026-07-23 145452" src="https://github.com/user-attachments/assets/e42a333f-42c8-45da-be08-ed1f7036e33f" />
+<img width="597" height="457" alt="Screenshot 2026-07-25 145626" src="https://github.com/user-attachments/assets/30296a70-9f69-41af-a35c-9d9b456bf27d" />
 
 ### Dashboard
 <img width="972" height="765" alt="Screenshot 2026-07-25 143523" src="https://github.com/user-attachments/assets/ab5f918d-0bfe-45ab-85e4-28633a97f1e5" />
@@ -52,7 +52,7 @@ http://localhost/ABC-BANK-WebSite/
 <img width="695" height="697" alt="Screenshot 2026-07-25 145339" src="https://github.com/user-attachments/assets/0dcf80ce-0014-4994-90bd-9853696093af" />
 
 ### Transaction history
-<img width="1451" height="902" alt="Screenshot 2026-07-23 145648" src="https://github.com/user-attachments/assets/98678c21-e323-4e3c-88bf-f241446ea7d4" />
+<img width="1337" height="641" alt="Screenshot 2026-07-25 145502" src="https://github.com/user-attachments/assets/98c3910c-fead-49fd-b7d2-bf5db60af83a" />
 
 ## Website link
 https://github.com/hifzaabid458-cloud/ABC-BANK-WebSite
