@@ -40,10 +40,10 @@ http://localhost/ABC-BANK-WebSite/
 <img width="716" height="515" alt="Screenshot 2026-07-23 145452" src="https://github.com/user-attachments/assets/e42a333f-42c8-45da-be08-ed1f7036e33f" />
 
 ### Dashboard
-<img width="1005" height="802" alt="image" src="https://github.com/user-attachments/assets/2e5cac70-440c-49a4-8054-11aa0a56524b" />
+<img width="972" height="765" alt="Screenshot 2026-07-25 143523" src="https://github.com/user-attachments/assets/ab5f918d-0bfe-45ab-85e4-28633a97f1e5" />
 
 ### Deposit
-<img width="727" height="597" alt="image" src="https://github.com/user-attachments/assets/2695a09b-9d7a-4d31-947a-7a5c1863d2ce" />
+<img width="727" height="597" alt="Screenshot 2026-07-25 143335" src="https://github.com/user-attachments/assets/d2814bdb-3242-42cd-a5f2-8108c6e39ead" />
 
 ### Withdraw
 <img width="482" height="496" alt="Screenshot 2026-07-23 145607" src="https://github.com/user-attachments/assets/c93fb829-9334-4d8e-9eb8-a3304236a597" />
